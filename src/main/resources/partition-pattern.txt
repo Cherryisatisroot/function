@@ -1,0 +1,7 @@
+# id partition range start-end ,data node index
+###### first host configuration
+1-64=0
+65-70=1
+71-100=2
+101-128=3
+0-0=3
